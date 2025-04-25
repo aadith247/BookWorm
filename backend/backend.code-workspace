@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "itw-app",
+			"path": "../../../itw-app"
+		},
+		{
+			"name": "mobile",
+			"path": "../mobile"
+		},
+		{
+			"name": "backend",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

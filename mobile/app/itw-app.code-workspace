@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../backend/itw-app"
+		},
+		{
+			"path": "../../backend"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
