@@ -102,6 +102,8 @@
     "selectLanguage": "Select Language",
     "logoutConfirmTitle": "Confirm Logout",
     "logoutConfirmMessage": "Are you sure you want to log out?",
+    "noRecommendations": "No recommendations yet",
+    "addButton": "Add your first book",
     "deletePostConfirmTitle": "Confirm Delete",
     "deletePostConfirmMessage": "Are you sure you want to delete this recommendation?",
     "deleteSuccess": "Recommendation deleted successfully.",
